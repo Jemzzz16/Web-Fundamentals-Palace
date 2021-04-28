@@ -1,2 +1,2 @@
 # Web-Fundamentals-Palace
-A place to royal play around with web fundamentals
+A place to royally play around with web fundamentals
