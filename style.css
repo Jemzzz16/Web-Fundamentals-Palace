@@ -1,0 +1,36 @@
+*  {
+  padding: 0px;
+  margin: 0px;
+}
+
+/* 
+#id      -> USE A HASHTAG
+.classes -> USE A DOT
+selector {
+  CSS DECLORATIONS
+  PROPERTY : VALUE ;
+} 
+*/
+
+body {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  width: 800px;
+  border: 50px solid palevioletred;
+}
+
+.card {
+  border: 5px solid grey;
+  border-radius: 5px;
+  text-align: center;
+  background-color: white;
+  color: black;
+  padding: 20px;
+  opacity: 0.5;
+}
+
+.card img {
+  margin: 10px;
+  min-height: 300px;
+  border-radius: 5px;
+}
+
